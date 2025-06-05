@@ -31,7 +31,8 @@ This repository contains the Verilog implementation of a **BCH (15, 7, t=2)** en
 ### ▶️ Top-Level & Testbench
 - **bch_top.v**: Integrates all modules into a complete encoder-decoder pipeline.
 - **bch_top_tb.v**: Testbench to validate encoding, corruption, and correction.
-
+- 
+### ▶️ BCH FLOW CHART
 ---![BCH FLOW CHART](https://github.com/user-attachments/assets/45d8a893-0276-4b3e-8029-4dae4de8e0ba)
 
 
